@@ -16,8 +16,10 @@ test/encoding/__pycache__/*
 test/import/__pycache__/*
 test/models/__pycache__/*
 test/network/__pycache__/*
+test/logs/*
 dist/*
 logs/*
 .pytest_cache/*
 .vscode/*
+.idea/*
 data/*
